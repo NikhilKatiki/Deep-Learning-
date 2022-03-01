@@ -1,18 +1,17 @@
 # Deep-Learning-
   1. Introduction
   2. Objective 
-  3. Data Dictionary
-  4. Data Pre-processing
-  5. Feature Engineering 
-  6. Model Development 
-  8. Results
+  3. Why Neural Networks
+  4. Hyperparameters tuning 
+  5. Challenges 
+  6. Learnings
 # Introduction 
   1. Asset pricing is one of the important aspects of financial analysis <br>
   2. one such analysis using time series data is to be done with deep neural networks <br>
 # Objective 
   1.The objective is to explore the hyperparameters of deep neural networks to understand the intuition behind the final architecture <br> 
   2.End goal of the tuning is to have the sharpe ratio more than 5.2 and the R-square ratio to be around 0 using different hyperparameters <br>
-# Technical challenges 
+# Challenges 
 ### Why Neural networks 
   - Neural networks with deep architecture can capture any sorts of trend unlike time series models which are confined to few assumptions only
   - If the dataset is huge, it is always advisable to use neural networks for time series forecasting as well
